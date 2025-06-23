@@ -188,8 +188,10 @@ This project includes several GitHub Actions workflows:
 
 ### 📊 Workflow Status
 
-![CI](https://github.com/abdelmoneimbelal/github-actions/workflows/CI/badge.svg)
-![Deploy](https://github.com/abdelmoneimbelal/github-actions/workflows/Deploy/badge.svg)
+[![CI](https://github.com/abdelmoneimbelal/github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/abdelmoneimbelal/github-actions/actions/workflows/ci.yml)
+[![Deploy](https://github.com/abdelmoneimbelal/github-actions/actions/workflows/deploy.yml/badge.svg)](https://github.com/abdelmoneimbelal/github-actions/actions/workflows/deploy.yml)
+
+> **Note:** Workflow badges will appear once you create the corresponding GitHub Actions workflow files (.github/workflows/ci.yml and .github/workflows/deploy.yml)
 
 ---
 
@@ -242,7 +244,7 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📞 Contact
 
-**Your Name** - [abdobelal069@gmail.com](mailto:abdobelal069@gmail.com)
+**Abdelmoneim Belal** - [abdobelal069@gmail.com](mailto:abdobelal069@gmail.com)
 
 **Project Link**: [https://github.com/abdelmoneimbelal/github-actions](https://github.com/abdelmoneimbelal/github-actions)
 
